@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.sergeantlefizzy.parifyplayer" version="1.1.5" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>PartifyPlayer</name>
+    <description>
+        A simple Music player with audio-visualizer. 
+    </description>
+    <author email="zeislermilan@gmail.com" href="http://phonegap.com">
+        Milan Zeisler
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
